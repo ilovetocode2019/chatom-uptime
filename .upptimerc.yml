@@ -21,8 +21,8 @@ status-website:
   navbar:
     - title: Status
       href: /chatom-uptime
-    - title: GitHub
-      href: https://github.com/ilovetocode2019
+    - title: Website
+      href: https://chat.ilovetocode2019.com
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
