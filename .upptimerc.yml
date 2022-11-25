@@ -8,6 +8,7 @@ sites:
   - name: API
     url: https://api.chat.ilovetocode2019.com
     expectedStatusCodes:
+      - 200
       - 404
 
 status-website:
