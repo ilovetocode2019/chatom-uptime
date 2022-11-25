@@ -20,7 +20,7 @@ status-website:
   introTitle: Chatom Status
   navbar:
     - title: Status
-      href: /chatom-uptime
+      href: /
     - title: Website
       href: https://chat.ilovetocode2019.com
 
