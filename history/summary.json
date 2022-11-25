@@ -23,18 +23,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.chat.ilovetocode2019.com.ico",
     "slug": "api",
     "status": "up",
-    "uptime": "0.45%",
-    "uptimeDay": "0.45%",
-    "uptimeWeek": "0.45%",
-    "uptimeMonth": "0.45%",
-    "uptimeYear": "0.45%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 196,
     "timeDay": 196,
     "timeWeek": 196,
     "timeMonth": 196,
     "timeYear": 196,
-    "dailyMinutesDown": {
-      "2022-11-25": 8
-    }
+    "dailyMinutesDown": {}
   }
 ]
