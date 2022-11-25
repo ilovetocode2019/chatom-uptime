@@ -22,17 +22,19 @@
     "url": "https://api.chat.ilovetocode2019.com",
     "icon": "https://icons.duckduckgo.com/ip3/api.chat.ilovetocode2019.com.ico",
     "slug": "api",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 197,
-    "timeDay": 197,
-    "timeWeek": 197,
-    "timeMonth": 197,
-    "timeYear": 197,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.96%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
+    "time": 196,
+    "timeDay": 196,
+    "timeWeek": 196,
+    "timeMonth": 196,
+    "timeYear": 196,
+    "dailyMinutesDown": {
+      "2022-11-25": 0
+    }
   }
 ]
