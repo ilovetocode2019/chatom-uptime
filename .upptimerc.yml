@@ -4,9 +4,9 @@ repo: chatom-uptime # The name of this repository
 
 sites:
   - name: Web Client
-    url: https://chat.ilovetocode2019.com
+    url: https://chatom.app
   - name: API
-    url: https://api.chat.ilovetocode2019.com
+    url: https://api.chatom.app
     expectedStatusCodes:
       - 200
       - 404
