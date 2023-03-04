@@ -4,9 +4,9 @@
     "url": "https://chatom.app",
     "icon": "https://icons.duckduckgo.com/ip3/chatom.app.ico",
     "slug": "web-client",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,16 +15,18 @@
     "timeWeek": 159,
     "timeMonth": 194,
     "timeYear": 209,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-03-04": 0
+    }
   },
   {
     "name": "API",
     "url": "https://api.chatom.app",
     "icon": "https://icons.duckduckgo.com/ip3/api.chatom.app.ico",
     "slug": "api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,6 +35,8 @@
     "timeWeek": 151,
     "timeMonth": 190,
     "timeYear": 290,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-03-04": 0
+    }
   }
 ]
