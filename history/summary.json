@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/chatom.app.ico",
     "slug": "web-client",
     "status": "down",
-    "uptime": "69.19%",
+    "uptime": "69.06%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "53.56%",
-    "time": 197,
+    "uptimeYear": "53.29%",
+    "time": 189,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 187,
     "dailyMinutesDown": {
-      "2024-06-01": 78,
+      "2024-06-02": 78,
+      "2024-06-01": 1440,
       "2024-05-31": 1440,
       "2024-05-30": 1440,
       "2024-05-29": 1440,
@@ -188,8 +189,7 @@
       "2023-12-15": 1440,
       "2023-12-14": 441,
       "2023-07-26": 27,
-      "2023-06-04": 238,
-      "2023-06-03": 257
+      "2023-06-04": 238
     }
   },
   {
@@ -198,18 +198,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.chatom.app.ico",
     "slug": "api",
     "status": "down",
-    "uptime": "69.15%",
+    "uptime": "69.02%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "53.51%",
-    "time": 223,
+    "uptimeYear": "53.23%",
+    "time": 224,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 183,
     "dailyMinutesDown": {
-      "2024-06-01": 78,
+      "2024-06-02": 78,
+      "2024-06-01": 1440,
       "2024-05-31": 1440,
       "2024-05-30": 1440,
       "2024-05-29": 1440,
@@ -380,8 +381,7 @@
       "2023-12-16": 1440,
       "2023-12-15": 1440,
       "2023-12-14": 441,
-      "2023-06-04": 238,
-      "2023-06-03": 257
+      "2023-06-04": 238
     }
   }
 ]
